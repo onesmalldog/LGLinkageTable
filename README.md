@@ -1,2 +1,3 @@
 # LGLinkageTable
-滑动选择器
+
+table view 与collection view联动展示
